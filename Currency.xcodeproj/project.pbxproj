@@ -51,6 +51,7 @@
 		465952732B5D030B0059FDB8 /* Networking */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Networking; sourceTree = "<group>"; };
 		465952772B5E46870059FDB8 /* CCLayout */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = CCLayout; sourceTree = "<group>"; };
 		465952792B5E5A380059FDB8 /* Then */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Then; sourceTree = "<group>"; };
+		4659527A2B5E5AED0059FDB8 /* UIKitUtil */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = UIKitUtil; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +184,7 @@
 		465952782B5E5A2D0059FDB8 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				4659527A2B5E5AED0059FDB8 /* UIKitUtil */,
 				465952792B5E5A380059FDB8 /* Then */,
 			);
 			path = Shared;

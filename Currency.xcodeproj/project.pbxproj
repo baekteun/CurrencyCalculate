@@ -50,6 +50,7 @@
 		4659526C2B5CF3780059FDB8 /* CurrencyCalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyCalculatorViewController.swift; sourceTree = "<group>"; };
 		465952732B5D030B0059FDB8 /* Networking */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Networking; sourceTree = "<group>"; };
 		465952772B5E46870059FDB8 /* CCLayout */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = CCLayout; sourceTree = "<group>"; };
+		465952792B5E5A380059FDB8 /* Then */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Then; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +103,7 @@
 		465952372B5CEA820059FDB8 /* Currency */ = {
 			isa = PBXGroup;
 			children = (
+				465952782B5E5A2D0059FDB8 /* Shared */,
 				465952722B5D02770059FDB8 /* Core */,
 				4659526A2B5CF1F20059FDB8 /* Feature */,
 				465952692B5CF1AC0059FDB8 /* App */,
@@ -176,6 +178,14 @@
 			children = (
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		465952782B5E5A2D0059FDB8 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				465952792B5E5A380059FDB8 /* Then */,
+			);
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

@@ -49,6 +49,7 @@
 		4659525B2B5CEA860059FDB8 /* CurrencyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4659526C2B5CF3780059FDB8 /* CurrencyCalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyCalculatorViewController.swift; sourceTree = "<group>"; };
 		465952732B5D030B0059FDB8 /* Networking */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Networking; sourceTree = "<group>"; };
+		465952772B5E46870059FDB8 /* CCLayout */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = CCLayout; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +165,7 @@
 		465952722B5D02770059FDB8 /* Core */ = {
 			isa = PBXGroup;
 			children = (
+				465952772B5E46870059FDB8 /* CCLayout */,
 				465952732B5D030B0059FDB8 /* Networking */,
 			);
 			path = Core;
